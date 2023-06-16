@@ -58,7 +58,7 @@ As an additional feature, the REST API should return results about the current c
 }
 ```
 
-## Requirements:
+## Non-functional requirements:
 
 - the application should be created using Java 17, Spring Boot, and Maven
 - entire code should be stored on a private GitHub repository
